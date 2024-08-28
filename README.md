@@ -30,14 +30,13 @@ Before proceeding, ensure you have the following installed:
     ```bash
     composer install
     ```
-
-### Set Up Environment
+3. Set Up Environment
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 
-### Configure Database
+4. Configure Database
 ```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -47,12 +46,12 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-### Run Migrations
+5. Run Migrations
 ```bash
 
 php artisan migrate
 ```
-### Start the Development Server
+6.  Start the Development Server
 ```bash
 
 php artisan serve
@@ -84,5 +83,4 @@ The dashboard allows users to:
 
  also you can look the invoice in the web through view invoice button and download the invocie throguh download button and Invoice name saved through  the orderId 
 
-![Dashboard Image](/images/dashboard.png)
 
