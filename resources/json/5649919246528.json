@@ -1,0 +1,701 @@
+{
+    "order": {
+        "id": 5649919246528,
+        "admin_graphql_api_id": "gid:\/\/shopify\/Order\/5649919246528",
+        "app_id": 580111,
+        "browser_ip": "5.21.133.49",
+        "buyer_accepts_marketing": true,
+        "cancel_reason": null,
+        "cancelled_at": null,
+        "cart_token": "d4f46dfe1d7853ca9fd52916bbcb1bc9",
+        "checkout_id": 31922319196352,
+        "checkout_token": "6527f9ad353ecc02da7bf9cb0c2306d2",
+        "client_details": {
+            "accept_language": "ar",
+            "browser_height": null,
+            "browser_ip": "5.21.133.49",
+            "browser_width": null,
+            "session_hash": null,
+            "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/20C65 Instagram 342.0.3.30.91 (iPhone13,4; iOS 16_2; en_OM; en; scale=3.00; 1284x2778; 627270390; IABMV\/1)"
+        },
+        "closed_at": null,
+        "company": null,
+        "confirmation_number": "KULXVRXTK",
+        "confirmed": true,
+        "contact_email": "lailaharid@gmail.com",
+        "created_at": "2024-08-23T00:51:12+04:00",
+        "currency": "AED",
+        "current_subtotal_price": "1275.45",
+        "current_subtotal_price_set": {
+            "shop_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            }
+        },
+        "current_total_additional_fees_set": null,
+        "current_total_discounts": "62.55",
+        "current_total_discounts_set": {
+            "shop_money": {
+                "amount": "62.55",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "62.55",
+                "currency_code": "AED"
+            }
+        },
+        "current_total_duties_set": null,
+        "current_total_price": "1275.45",
+        "current_total_price_set": {
+            "shop_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            }
+        },
+        "current_total_tax": "0.00",
+        "current_total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            }
+        },
+        "customer_locale": "ar-OM",
+        "device_id": null,
+        "discount_codes": [],
+        "email": "lailaharid@gmail.com",
+        "estimated_taxes": false,
+        "financial_status": "paid",
+        "fulfillment_status": null,
+        "landing_site": "\/?fbclid=PAZXh0bgNhZW0CMTEAAaaMmO7j8lG7_3EODagY9gDG5SU6uKF8fVKqLmJ1JJSjsgiGxMGu3WwnL5Q_aem_L1c6L9XBgFxPoJtxBhXJgA",
+        "landing_site_ref": null,
+        "location_id": null,
+        "merchant_of_record_app_id": null,
+        "name": "#NN-78794",
+        "note": null,
+        "note_attributes": [
+            {
+                "name": "lang",
+                "value": "en"
+            },
+            {
+                "name": "Invoice Language",
+                "value": "en"
+            }
+        ],
+        "number": 77794,
+        "order_number": 78794,
+        "order_status_url": "https:\/\/nohanabil.com\/56658919616\/orders\/198c2d52520e417d35ff1fc4a756f6fb\/authenticate?key=6372ca27f1722d311158ca31071f8893\u0026none=VQxWAlRFXQ",
+        "original_total_additional_fees_set": null,
+        "original_total_duties_set": null,
+        "payment_gateway_names": [
+            "checkout_v2"
+        ],
+        "phone": null,
+        "po_number": null,
+        "presentment_currency": "AED",
+        "processed_at": "2024-08-23T00:51:08+04:00",
+        "reference": "880333b5b2d016928f2b0b663aca80a9",
+        "referring_site": "https:\/\/l.instagram.com\/",
+        "source_identifier": "880333b5b2d016928f2b0b663aca80a9",
+        "source_name": "web",
+        "source_url": null,
+        "subtotal_price": "1275.45",
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            }
+        },
+        "tags": "",
+        "tax_exempt": false,
+        "tax_lines": [],
+        "taxes_included": true,
+        "test": false,
+        "token": "198c2d52520e417d35ff1fc4a756f6fb",
+        "total_discounts": "62.55",
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "62.55",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "62.55",
+                "currency_code": "AED"
+            }
+        },
+        "total_line_items_price": "1338.00",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "1338.00",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "1338.00",
+                "currency_code": "AED"
+            }
+        },
+        "total_outstanding": "0.00",
+        "total_price": "1275.45",
+        "total_price_set": {
+            "shop_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "1275.45",
+                "currency_code": "AED"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            }
+        },
+        "total_tax": "0.00",
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "AED"
+            }
+        },
+        "total_tip_received": "0.00",
+        "total_weight": 68,
+        "updated_at": "2024-08-23T00:51:17+04:00",
+        "user_id": null,
+        "billing_address": {
+            "first_name": "laila",
+            "address1": "Oman",
+            "phone": "0096899181424",
+            "city": "صلاله",
+            "zip": "A",
+            "province": null,
+            "country": "Oman",
+            "last_name": "said harid",
+            "address2": "E",
+            "company": null,
+            "latitude": 17.0193843,
+            "longitude": 54.11075049999999,
+            "name": "laila said harid",
+            "country_code": "OM",
+            "province_code": null
+        },
+        "customer": {
+            "id": 7242995794112,
+            "email": "lailaharid@gmail.com",
+            "created_at": "2024-06-24T18:20:10+04:00",
+            "updated_at": "2024-08-23T00:51:13+04:00",
+            "first_name": "laila",
+            "last_name": "said harid",
+            "state": "disabled",
+            "note": null,
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": "+96899181424",
+            "email_marketing_consent": {
+                "state": "subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": "2024-06-24T18:20:10+04:00"
+            },
+            "sms_marketing_consent": {
+                "state": "not_subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": null,
+                "consent_collected_from": "OTHER"
+            },
+            "tags": "",
+            "currency": "AED",
+            "accepts_marketing": true,
+            "accepts_marketing_updated_at": "2024-06-24T18:20:10+04:00",
+            "marketing_opt_in_level": "single_opt_in",
+            "tax_exemptions": [],
+            "admin_graphql_api_id": "gid:\/\/shopify\/Customer\/7242995794112",
+            "default_address": {
+                "id": 8707679748288,
+                "customer_id": 7242995794112,
+                "first_name": "laila",
+                "last_name": "said harid",
+                "company": null,
+                "address1": "Oman",
+                "address2": "E",
+                "city": "صلاله",
+                "province": null,
+                "country": "Oman",
+                "zip": "A",
+                "phone": "0096899181424",
+                "name": "laila said harid",
+                "province_code": null,
+                "country_code": "OM",
+                "country_name": "Oman",
+                "default": true
+            }
+        },
+        "discount_applications": [
+            {
+                "target_type": "line_item",
+                "type": "automatic",
+                "value": "15.0",
+                "value_type": "percentage",
+                "allocation_method": "each",
+                "target_selection": "entitled",
+                "title": "F15"
+            }
+        ],
+        "fulfillments": [],
+        "line_items": [
+            {
+                "id": 13717945974976,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717945974976",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 30,
+                "name": "Got You Covered! Matte Foundation - OMR - C70",
+                "price": "189.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "189.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "189.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7758534049984,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB114",
+                "taxable": true,
+                "title": "Got You Covered! Matte Foundation - OMR",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 44676417519808,
+                "variant_inventory_management": "shopify",
+                "variant_title": "C70",
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            },
+            {
+                "id": 13717946007744,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946007744",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 8,
+                "name": "Blush On - OMR - Beach Vibes",
+                "price": "139.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7514328596672,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB084",
+                "taxable": true,
+                "title": "Blush On - OMR",
+                "total_discount": "20.85",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 43811798220992,
+                "variant_inventory_management": "shopify",
+                "variant_title": "Beach Vibes",
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": [
+                    {
+                        "amount": "20.85",
+                        "amount_set": {
+                            "shop_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            },
+                            "presentment_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            }
+                        },
+                        "discount_application_index": 0
+                    }
+                ]
+            },
+            {
+                "id": 13717946040512,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946040512",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 8,
+                "name": "Blush On - OMR - Summertime",
+                "price": "139.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7514328596672,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB083",
+                "taxable": true,
+                "title": "Blush On - OMR",
+                "total_discount": "20.85",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 43811798188224,
+                "variant_inventory_management": "shopify",
+                "variant_title": "Summertime",
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": [
+                    {
+                        "amount": "20.85",
+                        "amount_set": {
+                            "shop_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            },
+                            "presentment_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            }
+                        },
+                        "discount_application_index": 0
+                    }
+                ]
+            },
+            {
+                "id": 13717946073280,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946073280",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 8,
+                "name": "Blush On - OMR - Tangerine Dream",
+                "price": "139.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "139.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7514328596672,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB082",
+                "taxable": true,
+                "title": "Blush On - OMR",
+                "total_discount": "20.85",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "20.85",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 43811798155456,
+                "variant_inventory_management": "shopify",
+                "variant_title": "Tangerine Dream",
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": [
+                    {
+                        "amount": "20.85",
+                        "amount_set": {
+                            "shop_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            },
+                            "presentment_money": {
+                                "amount": "20.85",
+                                "currency_code": "AED"
+                            }
+                        },
+                        "discount_application_index": 0
+                    }
+                ]
+            },
+            {
+                "id": 13717946106048,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946106048",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 0,
+                "name": "Naturally Filtered Set - OMR",
+                "price": "228.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "228.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "228.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7518776393920,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB102",
+                "taxable": true,
+                "title": "Naturally Filtered Set - OMR",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 43833567019200,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            },
+            {
+                "id": 13717946138816,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946138816",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 14,
+                "name": "Lip Ink Trio - OMR - Multicolor",
+                "price": "245.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "245.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "245.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 8036779851968,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB137",
+                "taxable": true,
+                "title": "Lip Ink Trio - OMR",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 45415426195648,
+                "variant_inventory_management": "shopify",
+                "variant_title": "Multicolor",
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            },
+            {
+                "id": 13717946171584,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/13717946171584",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 0,
+                "name": "Eyes Onfleek Set  - OMR",
+                "price": "259.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "259.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "259.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7518796251328,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "NNB101",
+                "taxable": true,
+                "title": "Eyes Onfleek Set  - OMR",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "variant_id": 43833638158528,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "Noha Nabil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            }
+        ],
+        "payment_terms": null,
+        "refunds": [],
+        "shipping_address": {
+            "first_name": "laila",
+            "address1": "Oman",
+            "phone": "0096899181424",
+            "city": "صلاله",
+            "zip": "A",
+            "province": null,
+            "country": "Oman",
+            "last_name": "said harid",
+            "address2": "E",
+            "company": null,
+            "latitude": 17.0193843,
+            "longitude": 54.11075049999999,
+            "name": "laila said harid",
+            "country_code": "OM",
+            "province_code": null
+        },
+        "shipping_lines": [
+            {
+                "id": 4651065770176,
+                "carrier_identifier": "650f1a14fa979ec5c74d063e968411d4",
+                "code": "Credit Card",
+                "discounted_price": "0.00",
+                "discounted_price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "phone": null,
+                "price": "0.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "AED"
+                    }
+                },
+                "requested_fulfillment_service_id": null,
+                "source": "shopify",
+                "title": "Credit Card",
+                "tax_lines": [],
+                "discount_allocations": []
+            }
+        ]
+    }
+}
