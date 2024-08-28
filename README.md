@@ -21,37 +21,42 @@ Before proceeding, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/taimoorali-code/invoice-pdf.git
-cd invoice-pdf
+    ```bash
+    git clone https://github.com/taimoorali-code/invoice-pdf.git
+    cd invoice-pdf
+    ```
 
-
-### Install Depencies
-
-composer install
+2. Install Dependencies:
+    ```bash
+    composer install
+    ```
 
 ### Set Up Environment
+```bash
 cp .env.example .env
-
 php artisan key:generate
+```
 
 ### Configure Database
-
+```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=your_database
 DB_USERNAME=your_username
 DB_PASSWORD=your_password
+```
 
 ### Run Migrations
+```bash
 
 php artisan migrate
-
+```
 ### Start the Development Server
+```bash
 
 php artisan serve
-
+```
 ## Dashboard
 
 The dashboard allows users to:
